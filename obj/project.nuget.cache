@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cbwot9X/p8P3/12tlnUMfskuNVHR4Eoryf53KXdpTqBhMbzIUw7SRsVglSmK+6Ya1GgXzwCkyRX/XvIJxuvzQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oscar Mejía Doroteo\\Documents\\Marcas\\StrongPack\\StrongPack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oscar Mejía Doroteo\\.nuget\\packages\\de.lkraemer.nemmet\\1.0.2\\de.lkraemer.nemmet.1.0.2.nupkg.sha512",
+    "C:\\Users\\Oscar Mejía Doroteo\\.nuget\\packages\\de.lkraemer.tagbuilder\\1.0.2\\de.lkraemer.tagbuilder.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
